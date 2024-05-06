@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\boot.exe
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\boot.deps.json
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\boot.runtimeconfig.json
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\boot.dll
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\boot.pdb
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\boot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\boot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\boot.AssemblyInfo.cs
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\boot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\boot.dll
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\boot.dll
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\boot.pdb
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\boot.genruntimeconfig.cache
+C:\Users\user\Desktop\cs pj\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\boot.dll

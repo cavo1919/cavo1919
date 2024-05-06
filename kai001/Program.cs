@@ -1,5 +1,5 @@
 ﻿using System.Media;
-namespace ConsoleApp1
+namespace kaizzo
 {
     internal class Program
     {
